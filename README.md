@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<!--
-**Danos1177/Danos1177** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ## Kemampuanku:
 
 Saya Bisa Membuat Bot Discord Penerjemah! 🥳
