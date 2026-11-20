@@ -1,8 +1,8 @@
-## Hi there 👋
+### Halo 👋, Perkenalakn nama ku Dan saya adalah seorang programmer dalam bidang python
 
 ## Kemampuanku:
 
-Saya Bisa Membuat Bot Discord Penerjemah! 🥳
+Saya bisa membuat sebuah bot discord yang unik dan menarik! 🥳
 
 <img width="643" height="274" alt="image" src="https://github.com/user-attachments/assets/96509420-e624-4d33-8c28-e83697284122" />
 
